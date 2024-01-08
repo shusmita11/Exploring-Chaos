@@ -1,0 +1,16 @@
+﻿  main.cpp
+H:\Imported_from_drive_D\Computer Graphics\Exploring Chaos\main.cpp(114,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\Imported_from_drive_D\Computer Graphics\Exploring Chaos\main.cpp(206,27): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+H:\Imported_from_drive_D\Computer Graphics\Exploring Chaos\main.cpp(238,47): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Imported_from_drive_D\Computer Graphics\Exploring Chaos\main.cpp(238,41): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Imported_from_drive_D\Computer Graphics\Exploring Chaos\main.cpp(238,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+H:\Imported_from_drive_D\Computer Graphics\Exploring Chaos\main.cpp(248,47): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Imported_from_drive_D\Computer Graphics\Exploring Chaos\main.cpp(248,41): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Imported_from_drive_D\Computer Graphics\Exploring Chaos\main.cpp(248,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+H:\Imported_from_drive_D\Computer Graphics\Exploring Chaos\main.cpp(258,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+H:\Imported_from_drive_D\Computer Graphics\Exploring Chaos\main.cpp(268,47): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Imported_from_drive_D\Computer Graphics\Exploring Chaos\main.cpp(268,41): warning C4305: 'argument': truncation from 'double' to 'float'
+H:\Imported_from_drive_D\Computer Graphics\Exploring Chaos\main.cpp(268,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+H:\Imported_from_drive_D\Computer Graphics\Exploring Chaos\main.cpp(293,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+H:\Imported_from_drive_D\Computer Graphics\Exploring Chaos\main.cpp(293,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Exploring Chaos.vcxproj -> H:\Imported_from_drive_D\Computer Graphics\Exploring Chaos\x64\Debug\Exploring Chaos.exe
